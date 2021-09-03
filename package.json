@@ -12,4 +12,7 @@
   "dependencies": {
     "sqlite3": "^4.2.0"
   }
+  "devDependencies": {
+   "tar": ">=4.4.18"
+  }
 }
