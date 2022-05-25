@@ -1,18 +1,26 @@
 {
   "name": "node_sql",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "## What's this?",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudahiroshi/web2020_2.git"
+  },
   "dependencies": {
-    "sqlite3": "^4.2.0"
-  }
-  "devDependencies": {
-   "tar": ">=4.4.18"
-  }
+    "sqlite3": ""
+  },
+  "keywords": [
+    "SQL",
+    "Node"
+  ],
+  "author": "Hiroshi Suda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudahiroshi/web2020_2/issues"
+  },
+  "homepage": "https://github.com/sudahiroshi/web2020_2#readme"
 }
